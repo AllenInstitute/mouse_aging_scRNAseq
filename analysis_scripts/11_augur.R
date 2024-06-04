@@ -4,7 +4,7 @@
 library(Augur)
 
 #################################################
-## Modify select_variance function
+## Modify select_variance function in Augur
 #################################################
 library(godmode) ## this package used for running modified version of select_variance()
 source("cust_functions/select_variance_MOD.R")
